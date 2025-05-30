@@ -1,1 +1,1 @@
-# i2c
+#lam sao gio
